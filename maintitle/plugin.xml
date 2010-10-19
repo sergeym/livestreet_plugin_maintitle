@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin>
+	<name>
+		<lang name="default">Index page title changer</lang>
+	</name>
+	<author>
+		<lang name="default">Sergey Marin</lang>
+	</author>
+	<homepage>http://sergeymarin.com/</homepage>
+	<version>1.0.0</version>
+	<requires>
+		<livestreet>0.4.2</livestreet>
+		<plugins>
+		
+		</plugins>
+	</requires>
+	<description>
+		<lang name="default">Index page title changer</lang>
+		<lang name="russian">Плагин для изменения тайтла главной страницы</lang>
+	</description>
+	<delegate>
+		<module></module>
+		<action></action>
+		<template></template>
+		<entity></entity>
+	</delegate>
+</plugin>
